@@ -1,0 +1,15 @@
+{
+  "name": "04-basesnode",
+  "version": "0.0.1",
+  "description": "Crea un archivo con una tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hector Ramirez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
